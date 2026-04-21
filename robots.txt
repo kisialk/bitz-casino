@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bitz-casino.vercel.app/sitemap.xml
+Sitemap: https://bitz-casino-1j3i.vercel.app/sitemap.xml
